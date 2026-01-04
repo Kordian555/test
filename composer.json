@@ -1,0 +1,11 @@
+{
+    "name": "kordian/test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "kordian\\test\\": "src/"
+        }
+    },
+    "require": {}
+}
