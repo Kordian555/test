@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit2906e6749e0a012966c1b199524c16a1
 {
     public static $prefixLengthsPsr4 = array (
-        'A' => 
+        'K' => 
         array (
-            'Atp\\Transcrify\\' => 15,
+            'Kordian\\TranscrifyBundle\\' => 25,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Atp\\Transcrify\\' => 
+        'Kordian\\TranscrifyBundle\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

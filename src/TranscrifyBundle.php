@@ -1,7 +1,7 @@
 <?php
 
 
-namespace kordian\test;
+namespace Kordian\TranscrifyBundle;
 
 class TranscrifyBundle
 {

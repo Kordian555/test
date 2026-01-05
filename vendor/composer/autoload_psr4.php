@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Atp\\Transcrify\\' => array($baseDir . '/src'),
+    'Kordian\\TranscrifyBundle\\' => array($baseDir . '/src'),
 );

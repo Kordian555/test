@@ -4,8 +4,9 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "kordian\\test\\": "src/"
+            "Kordian\\TranscrifyBundle\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
