@@ -3,3 +3,7 @@ services:
     autowire: true
     autoconfigure: true
     public: false
+
+    kordian.transcrify.test:
+      class: Kordian\TranscrifyBundle\TranscrifyBundle\Service\testService
+      abstract: true

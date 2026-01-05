@@ -1,6 +1,4 @@
 <?php
-
-
 namespace Kordian\TranscrifyBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
