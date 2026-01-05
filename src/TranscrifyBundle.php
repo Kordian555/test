@@ -3,7 +3,9 @@
 
 namespace Kordian\TranscrifyBundle;
 
-class TranscrifyBundle
+use Symfony\Component\HttpKernel\Bundle\Bundle;
+
+class TranscrifyBundle extends Bundle
 {
     public function test()
     {
