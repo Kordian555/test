@@ -4,5 +4,5 @@ services:
     autoconfigure: true
     public: false
 
-    Kordian\TranscrifyBundle\:
-      resource: '../src/*'
+  Kordian\TranscrifyBundle\:
+    resource: '../../../src/TranscrifyBundle/*'
