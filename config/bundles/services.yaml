@@ -6,7 +6,7 @@ services:
 
 
   Kordian\TranscrifyBundle\Service\:
-    resource: '../../Service/'
+    resource: '../../src/Service/'
 
 #  Kordian\TranscrifyBundle\:
 #    resource: '../../../src/TranscrifyBundle/*'
