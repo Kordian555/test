@@ -6,3 +6,4 @@ services:
 
   Kordian\TranscrifyBundle\:
     resource: '../../../src/TranscrifyBundle/*'
+    exclude: '../../../src/TranscrifyBundle/{DependencyInjection,Tests}'
