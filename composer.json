@@ -9,6 +9,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "symfony/framework-bundle": "7.3.0"
+        "symfony/framework-bundle": "7.3.*"
     }
 }
