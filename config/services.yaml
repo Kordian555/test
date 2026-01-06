@@ -4,6 +4,5 @@ services:
     autoconfigure: true
     public: false
 
-    kordian.transcrify.test:
-      class: Kordian\TranscrifyBundle\Service\testService
-      abstract: true
+    Kordian\TranscrifyBundle\:
+      resource: '../src/*'
