@@ -4,6 +4,9 @@ services:
     autoconfigure: true
     public: false
 
-  Kordian\TranscrifyBundle\:
-    resource: '../../../src/TranscrifyBundle/*'
-    exclude: '../../../src/TranscrifyBundle/{DependencyInjection,Tests}'
+
+  Kordian\TranscrifyBundle\Service\testService: ~
+
+#  Kordian\TranscrifyBundle\:
+#    resource: '../../../src/TranscrifyBundle/*'
+#    exclude: '../../../src/TranscrifyBundle/{DependencyInjection,Tests}'
