@@ -12,7 +12,7 @@ class TranscrifyBundle extends AbstractBundle
 {
     public function loadExtension(array $config, ContainerConfigurator $container, ContainerBuilder $builder): void
     {
-        $loader = new YamlFileLoader($builder, new FileLocator( '/config/bundles'));
+        $loader = new YamlFileLoader($builder, new FileLocator( '/Users/kordian/projects/transcrify/transcrify-backend-api/vendor/kordian/test/config/bundles'));
         $loader->load('services.yaml');
     }
 }
