@@ -5,7 +5,8 @@ services:
     public: false
 
 
-  Kordian\TranscrifyBundle\: ~
+  Kordian\TranscrifyBundle\:
+    resource: '../src/'
 
 #  Kordian\TranscrifyBundle\:
 #    resource: '../../../src/TranscrifyBundle/*'
