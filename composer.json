@@ -16,7 +16,7 @@
             "type": "path",
             "url": "/Users/kordian/projects/transcrify/transcrify-bundle",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         }
     ]
