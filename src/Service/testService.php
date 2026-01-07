@@ -8,4 +8,9 @@ class testService
     {
         return 'ok';
     }
+
+    public function elo()
+    {
+        return 'dd';
+    }
 }
