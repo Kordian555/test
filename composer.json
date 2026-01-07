@@ -10,7 +10,6 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "7.3.*",
-        "kordian/test": "dev-main"
     },
     "repositories": [
         {
