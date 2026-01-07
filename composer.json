@@ -14,7 +14,10 @@
     "repositories": [
         {
             "type": "path",
-            "url": "/Users/kordian/projects/transcrify/transcrify-bundle"
+            "url": "/Users/kordian/projects/transcrify/transcrify-bundle",
+            "options": {
+                "symlink": true
+            }
         }
     ]
 }
